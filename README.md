@@ -1,3 +1,11 @@
+## Well, hello there! ✨
+
+I'm <b>Malavika</b>.  
+I code for work full-time at [Compile](https://www.compile.com/).  
+Every once in a while, I code for fun here too.  
+
+
+
 
 
 
